@@ -1,9 +1,9 @@
 class Ocelot < Formula
   desc "the command line tool for ocelot CI"
   homepage "https://bitbucket.org/level11consulting/ocelot"
-  url "https://s3-us-west-2.amazonaws.com/ocelotty/mac-ocelot-0.4.0.zip"
-  sha256 "8eecae759f04bd6a97ab2fd99807a6c53e6c6d0b22e23b8319d289fdf562d5b8"
-  version "0.4.0"
+  url "https://s3-us-west-2.amazonaws.com/ocelotty/mac-ocelot-0.4.1.zip"
+  sha256 "f839ae90ab3caaf4aae47e5255254c3b53c2ed58bcf2d4acf11ddaf37302469d"
+  version "0.4.1"
 
   bottle :unneeded
 
