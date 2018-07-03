@@ -1,9 +1,9 @@
 class Ocelot < Formula
   desc "the command line tool for ocelot CI"
   homepage "https://bitbucket.org/level11consulting/ocelot"
-  url "https://github.com/shankj3/ocelot/releases/download/0.5.0/darwin-ocelot-0.5.0.zip"
-  sha256 "ef998658f5b6a716682736e7ba5b968a5b12ce256292f86d03588998c1391ba2"
-  version "0.5.0"
+  url "https://github.com/shankj3/ocelot/releases/download/0.6.0/darwin-ocelot-0.6.0.zip"
+  sha256 "0023beedd86bce775eb514c145b95ad58f0f506b30349d274018fbfd1b70fe1d"
+  version "0.6.0"
 
   bottle :unneeded
 
